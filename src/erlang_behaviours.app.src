@@ -1,0 +1,8 @@
+{application, erlang_behaviours,
+ [{vsn, "0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]}
+ ]}.
